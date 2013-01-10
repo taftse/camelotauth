@@ -1,0 +1,23 @@
+{
+    "name": "skyknightsentertainment/camelotauth",
+    "description": "",
+    "authors": [
+        {
+            "name": "Timothy Seebus",
+            "email": "Timothy Seebus@skyknights-entertainment.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "1.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Skyknightsentertainment\\Camelotauth": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
