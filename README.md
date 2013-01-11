@@ -1,6 +1,8 @@
 Camelot-Auth
 ============
 
+[![Build Status](https://travis-ci.org/taftse/camelotauth.png?branch=master)](https://travis-ci.org/taftse/camelotauth)
+
 Camelot auth is A Modular based Authentication library for Codeigniter
 
 it currently supports 
